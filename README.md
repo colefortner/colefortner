@@ -1,4 +1,4 @@
-### Hi there 👋
+👋 ### Hi there 
 
 I'm a software developer currently living in Georgia, and looking for junior developer roles. I would gladly relocate for the right opportunity.
 
