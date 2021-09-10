@@ -7,7 +7,7 @@ I'm a software developer currently living in Georgia.
 
 ## I am currently
 - Working as a Teaching Fellow for LaunchCode's LC101 Web Development Program
-- Searching for an Associate Developer job.
+- Searching for an Associate Developer job
 - Taking courses in command line and git/github through Udemy
 - Working on code daily
 
