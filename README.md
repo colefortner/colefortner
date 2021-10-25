@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <h2 align="center">I am a software devloper in Georgia</h1>
+  <h2 align="center">I am a software devloper in Georgia (US)</h1>
 </p>
 
 
