@@ -17,7 +17,7 @@
 </br>
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/20844376/134268471-afeb2cee-a88f-4e4e-a383-594b65c5b9cd.png" />
-  <a href="https://github.com/colefornter/dogfriendly">              
+  <a href="https://github.com/colefortner/dogfriendly">              
     <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=colefortner&repo=dogfriendly&theme=react" />
   </a>
 </p>
