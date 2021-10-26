@@ -18,7 +18,7 @@
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/20844376/134268471-afeb2cee-a88f-4e4e-a383-594b65c5b9cd.png" />
   <a href="https://github.com/colefortner/dogfriendly">              
-    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=colefortner&repo=dogfriendly&theme=react" />
+    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=colefortner&repo=dogfriendly&theme=github_dark" />
   </a>
 </p>
 </br>
@@ -39,7 +39,7 @@
 <br/>
 <br/>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=colefortner&show_icons=true&theme=react" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colefortner&theme=react&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=colefortner&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colefortner&theme=github_dark&layout=compact" />
 </p>
 
