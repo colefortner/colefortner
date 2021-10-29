@@ -24,7 +24,7 @@
 </br>
 </br>
 
-<p>  <h2 align="center">About me</h2></p>
+<!-- <p>  <h2 align="center">About me</h2></p>
 </br>
 
 - 🔭 I’m currently working on implementing a React frontend to my Dogfriendly app.
@@ -35,7 +35,7 @@
 - 📫 How to reach me: colefortner@gmail.com
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: I've been to over 100 concerts. 
-
+ -->
 <br/>
 <br/>
 <p align="center">
