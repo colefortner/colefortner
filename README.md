@@ -16,7 +16,7 @@
 <p>  <h2 align="center">My favorite project</h2></p>
 </br>
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/20844376/134268471-afeb2cee-a88f-4e4e-a383-594b65c5b9cd.png" />
+  <img width="500" src="sashaslist-landing.png" />
   <a href="https://github.com/colefortner/df-fe-ts-react">              
     <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=colefortner&repo=df-fe-ts-react&theme=github_dark" />
   </a>
