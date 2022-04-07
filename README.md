@@ -16,9 +16,12 @@
 <p>  <h2 align="center">My favorite project</h2></p>
 </br>
 <p align="center">
-  <img width="500" src="sashaslist-landing.png" />
+  <img width="500" src="sashaslist-landing.png" /></br>
   <a href="https://github.com/colefortner/df-fe-ts-react">              
     <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=colefortner&repo=df-fe-ts-react&theme=github_dark" />
+  </a>
+    <a href="https://github.com/colefortner/df-be-ts-node">              
+    <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=colefortner&repo=df-be-ts-node&theme=github_dark" />
   </a>
 </p>
 </br>
